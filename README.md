@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @BlicBoy
+- 👋 Hi, I’m BlicBoy
 
 
