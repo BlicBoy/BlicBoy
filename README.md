@@ -5,4 +5,4 @@
 
 ## Redes Sociais
 
-<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="	https://github-readme-stats.vercel.app/api?username={BlicBoy}&theme=blue-green" target="_blank"></a>
+<a href="https://www.instagram.com/blicboy_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
