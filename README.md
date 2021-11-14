@@ -11,4 +11,4 @@
 
 ##
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fallhtaccess.info%2F25-gif-images-related-to-programming%2F&psig=AOvVaw2u-AAjHu24aDMe5H0LPpd_&ust=1637013950863000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiR56vumPQCFQAAAAAdAAAAABAU.gif">
