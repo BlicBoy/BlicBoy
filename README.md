@@ -1,5 +1,15 @@
 ### BLICBOY
 
+
+<div align="center">
+  <a href="https://github.com/BlicBoy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlicBoy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlicBoy&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
+
 ## Linguagens de Programação
 <img align="center" alt="BB-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <img align="center" alt="BB-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="BB-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> <img align="center" alt="BB-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 
