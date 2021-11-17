@@ -1,4 +1,6 @@
 
+<p>Boas o meu nome é Gonçalo mais conhecido como BlicBoy, no meu Github vais encontrar alguns exercícios que vou desenvolvendo durante as aulas da Universidade.</p>
+
 <a href="https://github.com/BlicBoy">
 <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlicBoy&layout=compact&langs_count=7&theme=dark"/>
 
