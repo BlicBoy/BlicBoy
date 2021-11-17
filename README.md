@@ -1,4 +1,4 @@
-## BlicBoy
+## BlicBoy 💎
 
 <p>Boas o meu nome é Gonçalo mais conhecido como BlicBoy, no meu Github vais encontrar alguns exercícios que vou desenvolvendo durante as aulas da Universidade.</p>
 
