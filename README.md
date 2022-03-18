@@ -14,6 +14,6 @@
 
 <br>
 
-<img align="left" alt="" height="150" style="border-radius:50px;" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1.gif">
+<img align="left" alt="" height="150" style="border-radius:50px;" src="http://24.media.tumblr.com/90e3da3bd5efa3eed4588e6b37f14156/tumblr_myx63iI9qF1r4y6vgo1_500.gif">
   
   <img align="left" alt="" height="150" style="border-radius:50px;" src="https://img1.picmix.com/output/stamp/normal/0/9/0/4/1604090_a14a5.gif">
