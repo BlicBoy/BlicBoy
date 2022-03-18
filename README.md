@@ -16,4 +16,4 @@
 
 <img align="left" alt="" height="150" style="border-radius:50px;" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1.gif">
   
-  <img align="left" alt="" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.picmix.com%2Fstamp%2Fpikachu-gif-pokemon-1604090&psig=AOvVaw0rA1fc2n6cTmCMamWYzIHT&ust=1647699832090000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDr1avuz_YCFQAAAAAdAAAAABAO.gif">
+  <img align="left" alt="" height="150" style="border-radius:50px;" src="https://img1.picmix.com/output/stamp/normal/0/9/0/4/1604090_a14a5.gif">
