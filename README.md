@@ -2,7 +2,7 @@
 
 > CTESP Aplicações Móveis 🎓
 
-> PHP | C# | Python | JS 💻
+> PHP | C# | Kotlin | JS 💻
 
 > Backend / Server Side 🔌
 
