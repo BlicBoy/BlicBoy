@@ -4,7 +4,7 @@
 
 > PHP | C# | Kotlin | JS 💻
 
-> Backend / Server Side 🔌
+> Backend | Server Side 🔌
 
 ##
 
