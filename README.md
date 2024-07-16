@@ -5,7 +5,7 @@ Hello, my name is Gonçalo and I'm a full stack developer. I started programming
 
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [g.silva.oliveira.2002@gmail.com](mailto:g.silva.oliveira.2002@gmail.com)
-* 🚀  I'm currently working on [Trajeta APP](https://www.linkedin.com/company/trajeta/about/)
+* 🚀  I'm currently working on [Anti$$ocial](https://github.com/BlicBoy/ANTISSOCIAL-BOT)
 * 🧠  I'm learning Laravel and VueJS
 
 ### Socials
