@@ -6,7 +6,7 @@ Hello, my name is Gonçalo and I'm a full stack developer. I started programming
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [g.silva.oliveira.2002@gmail.com](mailto:g.silva.oliveira.2002@gmail.com)
 * 🚀  I'm currently working on [Anti$$ocial](https://github.com/BlicBoy/ANTISSOCIAL-BOT)
-* 🧠  I'm learning Laravel and VueJS
+* 🧠  I currently work with Laravel, VueJS, Swift and Kotlin
 
 ### Socials
 <p align="left"> <a href="https://www.linkedin.com/in/goncalooliveira-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@blicboy_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
