@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hello, my name is Gonçalo and I'm a full stack developer. I started programming when I was 12 years old and haven't stopped since. I have a degree in creating applications for mobile devices (CTESP - AM).
 
 * 🌍  I'm based in Portugal
-* 🌀  I am a co-founder of Flowing Core
+* ⚡️  I am a co-founder of Flowing Core
 * 🧠  I currently work with PHP, JS and C#
 
 ### Socials
